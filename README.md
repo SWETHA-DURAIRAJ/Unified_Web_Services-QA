@@ -20,12 +20,8 @@ Swetha Durairaj
 - Postman
 
 ## Load Testing
-- k6 / Postman Performance Runner
-
-## Version Control
-- Git
-- GitHub
-
+- Postman Performance Runner
+  
 ---
 
 # Tasks Completed

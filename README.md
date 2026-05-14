@@ -141,11 +141,10 @@ pytest --html=report.html
 
 # How to Run Load Tests
 
-- Using Postman Performance Runner
-- Import collection
-- Configure concurrent users and duration
-- Execute performance test
-
+- Import the Postman collection into Postman.
+- Open the collection, click Run, and select Performance Runner.
+- Configure the test with 50 virtual users and 2 minutes duration.
+- Execute the performance test and analyze metrics like response time, throughput, and error rate.
 # Issues Faced
 
 - Chrome password manager popup appeared during SauceDemo automation and was handled using browser configuration

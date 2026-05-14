@@ -1,7 +1,7 @@
 # Unified Web Services - QA Engineer Practical Assessment
 
 ## Candidate Name
-Swetha Durairaj
+Swetha D
 
 ---
 
@@ -14,7 +14,7 @@ Swetha Durairaj
 - Python
 - Selenium WebDriver
 - Pytest
-- WebDriver Manager
+
 
 ## API Testing
 - Postman
